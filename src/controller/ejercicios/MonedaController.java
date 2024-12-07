@@ -79,6 +79,32 @@ public class MonedaController {
     			return new Moneda(18.06075857035954, "ZAR", "Rand sudafricano", "R", "Sudáfrica");
 			case 37:
     			return new Moneda(5.987499582089147, "BRL", "Real brasile", "R$", "Brasil");
+			case 38:
+    			return new Moneda(7.243635452579163, "CNY", "Renminbi", "¥", "China");
+			case 39:
+    			return new Moneda(4.443758985506794, "MYR", "Ringgit malayo", "RM", "Malasia");
+			case 40:
+    			return new Moneda(3.6388469254292146, "QAR", "Riyal catarí", "ر.ق", "Qatar");
+			case 41:
+    			return new Moneda(3.7546397226762047, "SAR", "Riyal saudí", "ر.س", "Arabia Saudí");
+			case 42:
+    			return new Moneda(106.77922797344225, "RUB", "Rublo ruso", "₽", "Rusia");
+			case 43:
+    			return new Moneda(84.56962855263106, "INR", "Rupia india", "₹", "India");
+			case 44:
+    			return new Moneda(15846.893587796256, "IDR", "Rupia indonesia", "Rp", "Indonesia");
+			case 45:
+    			return new Moneda(3.744990366847178, "PEN", "Sol peruano", "S/", "Perú");
+			case 46:
+    			return new Moneda(12831.048866022169, "UZS", "Som uzbeko", "soʻm", "Uzbekistán");
+			case 47:
+    			return new Moneda(515.3299857744445, "KZT", "Tenge kazajo", "₸", "Kazajistán");
+			case 48:
+    			return new Moneda(1395.5249683429793, "KRW", "Won surcoreano", "₩", "Corea del Sur");
+			case 49:
+    			return new Moneda(149.8603798219779, "JPY", "Yen japonés", "¥", "Japón");
+			case 50:
+    			return new Moneda(4.064294268926823, "PLN", "Zloty polaco", "zł", "Polonia");
 			default:
         }
     }
