@@ -29,6 +29,31 @@ public class MonedaController {
     			return new Moneda(1.5349086190345655, "AUD", "Dólar australiano", "A$", "Australia");
 			case 12:
     			return new Moneda(0.9987712540592981, "BSD", "Dólar bahame", "B$", "Bahamas");
+				case 13:
+    			return new Moneda(1.401233277390278, "CAD", "Dólar canadiense", "C$", "Canadá");
+			case 14:
+    			return new Moneda(2.0102051270583217, "BBD", "Dólar de Barbados", "Bds$", "Barbados");
+			case 15:
+    			return new Moneda(1, "USD", "Dólar estadounidense", "$", "Estados Unidos");
+			case 16:
+    			return new Moneda(7.781799320191836, "HKD", "Dólar hongkonés", "HK$", "Hong Kong");
+			case 17:
+    			return new Moneda(157.5226372001208, "JMD", "Dólar jamaiquino", "J$", "Jamaica");
+			case 18:
+    			return new Moneda(1.7064270202315044, "NZD", "Dólar neozelandés", "NZ$", "Nueva Zelanda");
+			case 19:
+    			return new Moneda(32.4619890586972, "TWD", "Dólar taiwanés", "NT$", "República de China (Taiwán)");
+			case 20:
+    			return new Moneda(6.7572341200310175, "TTD", "Dólar trinitense", "TT$", "Trinidad y Tobago");
+			case 21:
+    			return new Moneda(0.9456000550608222, "EUR", "Euro", "€", "Eurozona");
+			case 22:
+    			return new Moneda(390.3504235810765, "HUF", "Forinto húngaro", "Ft", "Hungría");
+			case 23:
+    			return new Moneda(0.8809425016436325, "CHF", "Franco suizo", "CHF", "Suiza");
+			case 24:
+    			return new Moneda(41.542443712445134, "UAH", "Hryvnia ucraniana", "₴", "Ucrania");
+			default:
         }
     }
     //Recorrerá las 50 monedas y se las mostrará al usuario
