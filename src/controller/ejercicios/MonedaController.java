@@ -28,8 +28,8 @@ public class MonedaController {
 			case 11:
     			return new Moneda(1.5349086190345655, "AUD", "Dólar australiano", "A$", "Australia");
 			case 12:
-    			return new Moneda(0.9987712540592981, "BSD", "Dólar bahame", "B$", "Bahamas");
-				case 13:
+    			return new Moneda(0.9987712540592981, "BSD", "Dólar bahame", "B$", "Bahamas");	
+			case 13:
     			return new Moneda(1.401233277390278, "CAD", "Dólar canadiense", "C$", "Canadá");
 			case 14:
     			return new Moneda(2.0102051270583217, "BBD", "Dólar de Barbados", "Bds$", "Barbados");
@@ -53,6 +53,32 @@ public class MonedaController {
     			return new Moneda(0.8809425016436325, "CHF", "Franco suizo", "CHF", "Suiza");
 			case 24:
     			return new Moneda(41.542443712445134, "UAH", "Hryvnia ucraniana", "₴", "Ucrania");
+				case 25:
+    			return new Moneda(25.267072553070914, "HNL", "Lempira hondure", "L", "Honduras");
+			case 26:
+    			return new Moneda(4.7079690207756535, "RON", "Leu rumano", "lei", "Rumania");
+			case 27:
+    			return new Moneda(49.579233782341966, "EGP", "Libra egipcia", "ج.م", "Egipto");
+			case 28:
+    			return new Moneda(0.7857220653977629, "GBP", "Libra esterlina", "£", "Reino Unido");
+			case 29:
+    			return new Moneda(1.702746463006217, "AZN", "Manat azerbaiyano", "₼", "Azerbaiyán");
+			case 30:
+    			return new Moneda(1682.2682677725834, "NGN", "Naira nigeriana", "₦", "Nigeria");
+			case 31:
+    			return new Moneda(1008.9859522223377, "ARS", "Peso argentino", "$", "Argentina");
+			case 32:
+    			return new Moneda(975.6195758510243, "CLP", "Peso chileno", "$", "Chile");
+			case 33:
+    			return new Moneda(4380.978573171703, "COP", "Peso colombiano", "$", "Colombia");
+			case 34:
+    			return new Moneda(20.384434245872804, "MXN", "Peso mexicano", "$", "México");
+			case 35:
+    			return new Moneda(7.7058285639393995, "GTQ", "Quetzal guatemalteco", "Q", "Guatemala");
+			case 36:
+    			return new Moneda(18.06075857035954, "ZAR", "Rand sudafricano", "R", "Sudáfrica");
+			case 37:
+    			return new Moneda(5.987499582089147, "BRL", "Real brasile", "R$", "Brasil");
 			default:
         }
     }
