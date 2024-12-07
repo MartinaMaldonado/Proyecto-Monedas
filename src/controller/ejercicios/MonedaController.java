@@ -1,7 +1,7 @@
 package controller.ejercicios;
 
 import model.Moneda;
-
+//Organizar todas las monedas en un switch para acceder a ellas por el índice
 public class MonedaController {
     public static Moneda getMoneda(int num) {
         switch (num) {
