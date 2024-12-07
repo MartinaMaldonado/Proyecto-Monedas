@@ -31,6 +31,7 @@ public class MonedaController {
     			return new Moneda(0.9987712540592981, "BSD", "Dólar bahame", "B$", "Bahamas");
         }
     }
+    //Recorrerá las 50 monedas y se las mostrará al usuario
     public static void mostrarMonedas(){
         for(int i=1; i<=50; i++){
             Moneda moneda = MonedaController.getMoneda(i);
