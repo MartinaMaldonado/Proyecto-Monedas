@@ -34,11 +34,18 @@ public class Main {
         auxI = Utilidades.tranformStringInt(sc.nextLine());
         moneda_salida = MonedaController.getMoneda(auxI);
 
-        //Se calcula el valor de salida
-        valor_salida = valor_entrada / moneda_entrada.valor_de_conversion * moneda_salida.valor_de_conversion;
+        //Se verifica que la moneda elegida se una de las 50
+        if(moneda_entrada==null || moneda_salida==null){
+            //En caso de una opción inválida se muestran estos mensajes
+            System.out.println();
+            System.out.println("Eligió monedas inválidas");
+        }else {
+            //Se calcula el valor de salida
+            valor_salida = valor_entrada / moneda_entrada.valor_de_conversion * moneda_salida.valor_de_conversion;
 
-        //Se muestran las respectivas salidas al usuario
-        System.out.println("\nEl valor de "+valor_entrada+""+moneda_entrada.simbolo+" ["+moneda_entrada.nombre+" ("+moneda_entrada.codigo_iso+")] convertido a "+moneda_salida.nombre+" ("+moneda_salida.codigo_iso+") es: ");
-        System.out.println(valor_salida+" "+moneda_salida.simbolo);
+            //Se muestran las respectivas salidas al usuario
+            System.out.println("\nEl valor de "+valor_entrada+""+moneda_entrada.simbolo+" ["+moneda_entrada.nombre+" ("+moneda_entrada.codigo_iso+")] convertido a "+moneda_salida.nombre+" ("+moneda_salida.codigo_iso+") es: ");
+            System.out.println(valor_salida+" "+moneda_salida.simbolo);
+        }
     }
 }
