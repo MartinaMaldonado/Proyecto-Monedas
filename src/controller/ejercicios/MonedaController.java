@@ -106,6 +106,7 @@ public class MonedaController {
 			case 50:
     			return new Moneda(4.064294268926823, "PLN", "Zloty polaco", "zł", "Polonia");
 			default:
+				return null;
         }
     }
     //Recorrerá las 50 monedas y se las mostrará al usuario
