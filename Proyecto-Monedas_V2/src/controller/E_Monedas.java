@@ -14,6 +14,7 @@ import java.io.FileWriter;
  */
 public class E_Monedas {
     public String[][] monedas;
+    public String[][] sesiones;
     private Integer props = 4;
     
     
