@@ -1,0 +1,50 @@
+33.728649148209264	THB	Baht tailandés	฿	Tailandia	th
+15.388236761079185	GHS	Cedi ghanés	₵	Ghana	gh
+129.21134633553044	KES	Chelín keniano	KSh	Kenia	ke
+7.197627349086177	DKK	Corona danesa	kr	Dinamarca	dk
+11.319770272533532	NOK	Corona noruega	kr	Noruega	no
+11.090537043264831	SEK	Corona sueca	kr	Suecia	se
+1310.1582193135353	IQD	Dinar iraquí	ع.د	Irak	iq
+0.7091360569830263	JOD	Dinar jordano	د.أ	Jordania	jo
+0.30848679431070447	KWD	Dinar kuwaití	د.ك	Kuwait	kw
+3.6728003589184355	AED	Dirham de los EAU	د.إ	Emiratos Árabes Unidos	ae
+1.604823405060726	AUD	Dólar australiano	A$	Australia	au
+0.9997593570140689	BSD	Dólar bahame	B$	Bahamas	bs
+1.4525668530018703	CAD	Dólar canadiense	C$	Canadá	ca
+2.012235444669623	BBD	Dólar de Barbados	Bds$	Barbados	bb
+1	USD	Dólar estadounidense	$	Estados Unidos	us
+7.791501005019872	HKD	Dólar hongkonés	HK$	Hong Kong	hk
+157.545404852685	JMD	Dólar jamaiquino	J$	Jamaica	jm
+1.7733959380083606	NZD	Dólar neozelandés	NZ$	Nueva Zelanda	nz
+32.93486170619996	TWD	Dólar taiwanés	NT$	República de China (Taiwán)	tw
+6.770007255460176	TTD	Dólar trinitense	TT$	Trinidad y Tobago	tt
+0.964400229762485	EUR	Euro	€	Eurozona	eu
+393.24459524163103	HUF	Forinto húngaro	Ft	Hungría	hu
+0.9106426251662701	CHF	Franco suizo	CHF	Suiza	ch
+41.696803300806295	UAH	Hryvnia ucraniana	₴	Ucrania	ua
+25.47135953904032	HNL	Lempira hondure	L	Honduras	hn
+4.796803037934533	RON	Leu rumano	lei	Rumania	ro
+50.22931273089401	EGP	Libra egipcia	ج.م	Egipto	eg
+0.8063245684872348	GBP	Libra esterlina	£	Reino Unido	gb
+1.7027469003536908	AZN	Manat azerbaiyano	₼	Azerbaiyán	az
+1509.779703416749	NGN	Naira nigeriana	₦	Nigeria	ng
+1051.7895876770456	ARS	Peso argentino	$	Argentina	ar
+983.9378226227633	CLP	Peso chileno	$	Chile	cl
+4206.173860729032	COP	Peso colombiano	$	Colombia	co
+20.68259451397152	MXN	Peso mexicano	$	México	mx
+7.735017444457312	GTQ	Quetzal guatemalteco	Q	Guatemala	gt
+18.661558303706276	ZAR	Rand sudafricano	R	Sudáfrica	za
+5.84676114442627	BRL	Real brasileño	R$	Brasil	br
+7.219869942325353	CNY	Renminbi	¥	China	cn
+4.4461595786540435	MYR	Ringgit malayo	RM	Malasia	my
+3.642585641580174	QAR	Riyal catarí	ر.ق	Qatar	qa
+3.750455004875114	SAR	Riyal saudí	ر.س	Arabia Saudí	sa
+98.57069468893037	RUB	Rublo ruso	₽	Rusia	ru
+86.68660819319992	INR	Rupia india	₹	India	in
+16342.480465592564	IDR	Rupia indonesia	Rp	Indonesia	id
+3.72432496890285	PEN	Sol peruano	S/	Perú	pe
+12971.75055302648	UZS	Som uzbeko	soʻm	Uzbekistán	uz
+518.2126978980906	KZT	Tenge kazajo	₸	Kazajistán	kz
+1456.4132585320438	KRW	Won surcoreano	₩	Corea del Sur	kr
+155.13260764066015	JPY	Yen japonés	¥	Japón	jp
+4.064110949767503	PLN	Zloty polaco	zł	Polonia	pl
