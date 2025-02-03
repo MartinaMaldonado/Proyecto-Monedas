@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 
 /**
  *
- * @author wilson
+ * @author CAEL
  */
 public class IconoRenderer extends DefaultTableCellRenderer {
     @Override

@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 
 /**
  *
- * @author wilson
+ * @author CAEL
  */
 
 public class MTableMonedas extends AbstractTableModel{
